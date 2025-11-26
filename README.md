@@ -6,7 +6,7 @@
 * **Year:** [2025-2026]
 
 ### 📜 Certifications
-* [Certification Name] - [Issuing Organization] (Link pending)
+
 
 ### 💻 Skillsets
 * **Languages:** [Python, Java, HTML/CSS]
