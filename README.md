@@ -3,7 +3,7 @@
 ### About Me
 I am **Jan Rey Valloyas**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I joined the BS Information Technology program, where I began exploring how data and logic come together.
 
-- 🎓 Currently studying **BS Information Technology** at **New Era University** (2021–Present).
+- 🎓 Currently studying **BS Information Technology** at **New Era University** (2024–Present).
 - 💡 Interested in Web Development, Database Systems, and Object-Oriented Programming.
 - 🚀 Always looking to collaborate on innovative tech projects.
 
