@@ -23,7 +23,7 @@ I am **Jan Rey Valloyas**, with a flair for coding and database management skill
 * [Data Analytics with AI](https://api2.sololearn.com/v2/certificates/CC-ZDU2ONMY/image/jpg?t=639106287366921290)
 * [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/d9fbcca6462749f5aaa2932f6b12f166) 
 
-
+---
 ### 🛠 Skill Sets
 **Programming & Frontend**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
